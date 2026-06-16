@@ -1,0 +1,2 @@
+# Standard library only for scraping; pandas optional for annotation workflows.
+pandas>=2.0
