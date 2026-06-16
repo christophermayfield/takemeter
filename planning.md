@@ -1,7 +1,7 @@
 Community: I picked r/unpopularopinion
 
 Labels: 
-    - hot_take: a string opinion, may also make mock someone 
+    - hot_take: a strong, often controversial opinion, may also make mock someone 
 
     https://www.reddit.com/r/unpopularopinion/comments/1u6wyuc/i_believe_wicked_was_completely_ruined_because_it/
 
@@ -33,3 +33,19 @@ Labels:
 
     
 
+AI Tool Plan 
+Label stress-testing 
+ hot_take: a strong, often controversial opinion, may also make mock someone else's opinion, or be a general statement that is not necessarily true. 
+ edge case: using a fact that may be made up in a way to be sardonic 
+
+ analytical: general argument - may provide evidence or reasoning to support the claim. 
+ edge case: when someone is trying to one-up someone else, or is being sarcastic, or is making a joke, or is making a statement that is not necessarily true. 
+
+ nostalgia_maxxing - longing for the past, making allures to a greater time, may complain about the present
+ edge case: when someone is saying something about the past that doesn't necessarily apply. 
+
+Annotation Assitance
+Yes, using pandas 
+
+Failure Analysis 
+I'll look for obvious misalignment of labels. i'll steer the LLM toward the correct labeling scheme if needed. 
