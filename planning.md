@@ -64,3 +64,6 @@ I'll look for obvious misalignment of labels. i'll steer the LLM toward the corr
   },
   "model": "distilbert-base-uncased"
 }
+
+
+![My Image](confusion_matrix.png)
